@@ -1,0 +1,12 @@
+env_name: "AI Workplace Simulator"
+version: "1.0.0"
+description: "A realistic multi-stage environment evaluating an agent's ability to handle workplace tasks: Email Triage, Code Review, and Data Cleaning."
+tags:
+  - openenv
+  - nlp
+  - coding
+  - data-processing
+tasks:
+  - email_triage
+  - code_review
+  - data_cleaning
